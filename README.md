@@ -41,3 +41,5 @@ Terminate orphan process: pid (2651) (dotnet)
 Terminate orphan process: pid (2686) (dotnet)
 Finishing: Finalize Job
 
+Jos neka izmena
+
