@@ -43,4 +43,4 @@ Finishing: Finalize Job
 
 Jos neka izmena
 mmm
-
+ddd
