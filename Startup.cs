@@ -16,6 +16,7 @@ namespace pipelines_dotnet_core
     {
         public Startup(IConfiguration configuration)
         {
+            //Neka izmena...
             Configuration = configuration;
         }
 
